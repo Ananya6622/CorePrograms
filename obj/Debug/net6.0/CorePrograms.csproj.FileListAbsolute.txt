@@ -1,0 +1,14 @@
+C:\Users\anany\source\repos\CorePrograms\bin\Debug\net6.0\CorePrograms.exe
+C:\Users\anany\source\repos\CorePrograms\bin\Debug\net6.0\CorePrograms.deps.json
+C:\Users\anany\source\repos\CorePrograms\bin\Debug\net6.0\CorePrograms.runtimeconfig.json
+C:\Users\anany\source\repos\CorePrograms\bin\Debug\net6.0\CorePrograms.dll
+C:\Users\anany\source\repos\CorePrograms\bin\Debug\net6.0\CorePrograms.pdb
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\CorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\CorePrograms.AssemblyInfoInputs.cache
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\CorePrograms.AssemblyInfo.cs
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\CorePrograms.csproj.CoreCompileInputs.cache
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\CorePrograms.dll
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\refint\CorePrograms.dll
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\CorePrograms.pdb
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\CorePrograms.genruntimeconfig.cache
+C:\Users\anany\source\repos\CorePrograms\obj\Debug\net6.0\ref\CorePrograms.dll
